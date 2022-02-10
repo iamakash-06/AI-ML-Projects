@@ -25,12 +25,12 @@
     <ul>
       <li>TensorFLow</li>
       <li>Keras</li>
-      <li>DeppFace</li>
+      <li>DeepFace</li>
       <li>Scikit Learn</li>
       <li>Scikit Neural Network</li>
       <li>Scipy</li>
       <li>Matplotlib</li>
-      <lii>Seaborn</li>
+      <li>Seaborn</li>
       <li>Pandas</li>
       <li>Numpy</li>
     </ul>
